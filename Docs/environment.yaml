@@ -1,0 +1,7 @@
+name: patient-app
+channels:
+  - defaults
+dependencies:
+  - python=3.10          
+  - tk                   # provides the tkinter GUI library
+  - matplotlib           # for plotting in handlers.py
